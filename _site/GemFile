@@ -1,0 +1,10 @@
+group :jekyll_plugins do
+    gem "jekyll-gist"
+    gem "jekyll-coffeescript"
+    gem "jekyll-assets"
+end
+
+gem "jekyll-theme-slate"
+gem "sprockets", "~> 3.7"
+gem 'wdm', '>= 0.1.0'
+gem "kramdown-parser-gfm"
